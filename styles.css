@@ -121,3 +121,16 @@ footer {
   color: black;
   text-decoration: none;
 }
+
+.icons i {
+  font-size: 20px;
+  margin-left: 10px;
+  cursor: pointer;
+  color: gray;
+}
+
+.fa-bars {
+  font-size: 18px;
+  margin-right: 10px;
+  cursor: pointer;
+}
